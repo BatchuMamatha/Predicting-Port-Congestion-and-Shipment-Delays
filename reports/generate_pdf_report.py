@@ -350,7 +350,7 @@ def build_pdf_report(
     # -------------------------------------------------------------
     story.append(HRFlowable(width="100%", thickness=1, color=c_border, spaceBefore=4, spaceAfter=4))
     story.append(Paragraph(
-        "<b>Aiqon AI Take-Home Submission</b> &nbsp;|&nbsp; Predicting Port Congestion and Shipment Delays &nbsp;|&nbsp; GitHub: Available in Submission Email",
+        "<b>Aiqon AI Take-Home Submission</b> &nbsp;|&nbsp; Predicting Port Congestion and Shipment Delays &nbsp;|&nbsp; GitHub: https://github.com/BatchuMamatha/Predicting-Port-Congestion-and-Shipment-Delays",
         ParagraphStyle("Footer", fontName="Helvetica", fontSize=7.5, textColor=c_gray, alignment=1)
     ))
 

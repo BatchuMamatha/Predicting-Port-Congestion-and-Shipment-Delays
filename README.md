@@ -122,8 +122,8 @@ P(Congestion Delay >= 12h) [0.0 - 1.0]                               Expected Wa
 
 ### 1. Clone & Set Up Environment
 ```bash
-git clone <your-repo-link>
-cd "AISE Intern  Aiqon"
+git clone https://github.com/BatchuMamatha/Predicting-Port-Congestion-and-Shipment-Delays.git
+cd Predicting-Port-Congestion-and-Shipment-Delays
 
 # Create and activate virtual environment (optional)
 python -m venv venv
@@ -193,6 +193,7 @@ For recording your optional 5-minute video demo:
 - **Company:** Aiqon  
 - **Role:** AI Internship  
 - **Assignment:** Predicting Port Congestion and Shipment Delays Using AI  
+- **GitHub Repository:** https://github.com/BatchuMamatha/Predicting-Port-Congestion-and-Shipment-Delays
 - **Deliverables Included:**
   1. Complete code repository with modular package, tests, and documentation.
   2. Publication-quality PDF technical report: [`reports/Aiqon_Port_Congestion_Technical_Report.pdf`](reports/Aiqon_Port_Congestion_Technical_Report.pdf).

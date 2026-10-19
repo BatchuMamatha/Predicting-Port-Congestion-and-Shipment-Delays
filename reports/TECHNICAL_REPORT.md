@@ -3,7 +3,7 @@
 **Author:** AI Engineering Candidate  
 **Company:** Aiqon AI Internship Assessment  
 **Date:** October 2026  
-**Repository:** [GitHub Repository](#)  
+**Repository:** [GitHub: BatchuMamatha/Predicting-Port-Congestion-and-Shipment-Delays](https://github.com/BatchuMamatha/Predicting-Port-Congestion-and-Shipment-Delays)  
 **Submission Contact:** `info@aiqon.in`  
 
 ---
